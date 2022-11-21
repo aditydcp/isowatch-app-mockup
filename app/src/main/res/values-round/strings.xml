@@ -1,0 +1,7 @@
+<resources>
+    <string name="hello_world">Hello Round World!</string>
+    <string name="start">Mulai Pemeriksaan</string>
+    <string name="begun">Pemeriksaan Dimulai</string>
+    <string name="id">ID: </string>
+    <string name="id_pasien">02</string>
+</resources>
